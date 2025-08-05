@@ -151,7 +151,8 @@ python result_analysis.py -d exp1 exp2 exp3 -p 100 200 300
 # Specify output formats
 python result_analysis.py -d pH4_1 pH4_2 pH4_3 -p 243 105 129 --formats png pdf
 ```
-![Uploading comprehensive_md_analysis_5M_pH4.png…]()
+<img width="7924" height="6633" alt="comprehensive_md_analysis_5M_pH4" src="https://github.com/user-attachments/assets/68d4a5d9-ffb6-47ff-a78f-9d85a7cc5423" />
+
 
 
 #### Analysis Parameters
